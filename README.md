@@ -1,6 +1,6 @@
 local teleport_table = {
-    location1 = Vector3.new(0, 0, 0), -- Primeira parada
-    location2 = Vector3.new(0, 1, 0)   -- Ponto final
+    location1 = Vector3.new(0, 7, 0), -- Primeira parada
+    location2 = Vector3.new(0, 3, 0)   -- Ponto final
 }
 
 local tween_s = game:GetService('TweenService')
