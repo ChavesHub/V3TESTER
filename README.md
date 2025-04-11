@@ -4,7 +4,7 @@ local teleport_table = {
 }  
 
 local tween_s = game:GetService('TweenService')  
-local base_speed = 25 -- Velocidade em studs por segundo  
+local base_speed = 100 -- Velocidade em studs por segundo  
 
 local lp = game.Players.LocalPlayer  
 local button = script.Parent:FindFirstChild("TextButton") -- Referência ao botão  
